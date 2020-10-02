@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stormy</string>
+    <string name="dialog_title_text">Error Occured</string>
+    <string name="errRequestFailed">Somethin went Wrong. Please try Again!!</string>
+    <string name="errNetworkNotAvailable">Please connect to the Network.</string>
+    <string name="dialogButtonText">Dismiss</string>
+</resources>
